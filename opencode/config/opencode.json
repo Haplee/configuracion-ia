@@ -1,0 +1,15 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "open-design": {
+      "type": "local",
+      "command": [
+        "C:\\Users\\usuario\\open-design\\apps\\daemon\\bin\\od.cmd",
+        "mcp",
+        "--daemon-url",
+        "http://127.0.0.1:7456"
+      ],
+      "enabled": true
+    }
+  }
+}

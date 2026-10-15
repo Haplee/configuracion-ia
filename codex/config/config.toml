@@ -1,0 +1,42 @@
+model = "gpt-5.6-terra"
+model_reasoning_effort = "high"
+
+[mcp_servers.mobai]
+url = "http://127.0.0.1:8686/mcp"
+
+[projects.'C:\Users\usuario\proyectos\tu-router']
+trust_level = "trusted"
+
+[projects.'C:\Users\usuario\proyectos\apps\tu-proyecto-gym']
+trust_level = "trusted"
+
+[projects.'C:\Users\usuario']
+trust_level = "trusted"
+
+[projects.'C:\Users\usuario\proyectos\encargos']
+trust_level = "trusted"
+
+[projects.'c:\windows\system32']
+trust_level = "trusted"
+
+[windows]
+sandbox = "unelevated"
+
+[tui]
+screen_reader_detection_done = true
+
+# BEGIN ARTEMIS MCP CONFIG
+[mcp_servers.artemis]
+command = "C:\\Users\\usuario\\artemis\\.venv\\Scripts\\python.exe"
+args = ["-m", "mcp_server"]
+cwd = "C:\\Users\\usuario\\artemis"
+enabled = true
+required = true
+startup_timeout_sec = 120
+enabled_tools = ["mobile_run_task", "mobile_manage_task", "mobile_get_device_state", "mobile_inspect_trace", "mobile_diagnose"]
+
+[mcp_servers.artemis.env]
+PYTHONUNBUFFERED = "1"
+PYTHONPATH = "C:\\Users\\usuario\\artemis"
+ARTEMIS_DESKTOP_NOTIFY = "true"
+# END ARTEMIS MCP CONFIG

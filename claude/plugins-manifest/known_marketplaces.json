@@ -1,0 +1,26 @@
+{
+  "claude-plugins-official": {
+    "source": {
+      "source": "github",
+      "repo": "anthropics/claude-plugins-official"
+    },
+    "installLocation": "C:\\Users\\usuario\\.claude\\plugins\\marketplaces\\claude-plugins-official",
+    "lastUpdated": "2026-09-24T08:44:30.806Z"
+  },
+  "openai-codex": {
+    "source": {
+      "source": "github",
+      "repo": "openai/codex-plugin-cc"
+    },
+    "installLocation": "C:\\Users\\usuario\\.claude\\plugins\\marketplaces\\openai-codex",
+    "lastUpdated": "2026-08-19T17:22:21.035Z"
+  },
+  "anthropic-cybersecurity-skills": {
+    "source": {
+      "source": "github",
+      "repo": "mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    "installLocation": "C:\\Users\\usuario\\.claude\\plugins\\marketplaces\\anthropic-cybersecurity-skills",
+    "lastUpdated": "2026-08-24T07:18:00.885Z"
+  }
+}

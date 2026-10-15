@@ -1,0 +1,43 @@
+{
+  "locations": {
+    "C:\\Users\\usuario\\proyectos\\tu-proyecto-gym": {
+      "tool_approvals": [
+        {
+          "kind": "commands",
+          "commandIdentifiers": [
+            "Set-Location",
+            "npm ci",
+            "npm run",
+            "npm audit"
+          ]
+        },
+        {
+          "kind": "write"
+        },
+        {
+          "kind": "commands",
+          "commandIdentifiers": [
+            "npm view"
+          ]
+        },
+        {
+          "kind": "commands",
+          "commandIdentifiers": [
+            "git checkout",
+            "npm install",
+            "git add",
+            "git commit",
+            "git push",
+            "gh pr"
+          ]
+        },
+        {
+          "kind": "commands",
+          "commandIdentifiers": [
+            "New-Item"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "version": 3,
+  "skills": {
+    "animation-vocabulary": {
+      "source": "emilkowalski/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/emilkowalski/skills.git",
+      "skillPath": "skills/animation-vocabulary/SKILL.md",
+      "skillFolderHash": "e6dc24ca1ff1e70c9677df9a1d2d1c80415cbb3c",
+      "installedAt": "2026-07-11T18:01:19.199Z",
+      "updatedAt": "2026-09-03T15:26:03.797Z"
+    },
+    "apple-design": {
+      "source": "emilkowalski/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/emilkowalski/skills.git",
+      "skillPath": "skills/apple-design/SKILL.md",
+      "skillFolderHash": "e9f5b472dfb28d8cf29f64001b6c01ef94b8168b",
+      "installedAt": "2026-07-11T18:01:19.201Z",
+      "updatedAt": "2026-09-03T15:26:03.798Z"
+    },
+    "emil-design-eng": {
+      "source": "emilkowalski/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/emilkowalski/skills.git",
+      "skillPath": "skills/emil-design-eng/SKILL.md",
+      "skillFolderHash": "175725745e70946d891b93a1694d7c9ebb71b69d",
+      "installedAt": "2026-07-11T18:01:19.203Z",
+      "updatedAt": "2026-09-03T15:26:03.801Z"
+    },
+    "improve-animations": {
+      "source": "emilkowalski/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/emilkowalski/skills.git",
+      "skillPath": "skills/improve-animations/SKILL.md",
+      "skillFolderHash": "2ff93ddb9833df45f5e83080de838bb668530820",
+      "installedAt": "2026-07-11T18:01:19.204Z",
+      "updatedAt": "2026-09-03T15:26:03.804Z"
+    },
+    "review-animations": {
+      "source": "emilkowalski/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/emilkowalski/skills.git",
+      "skillPath": "skills/review-animations/SKILL.md",
+      "skillFolderHash": "82571acae75a97764fa7899f10bd21d93a4f1414",
+      "installedAt": "2026-07-11T18:01:19.205Z",
+      "updatedAt": "2026-09-03T15:26:03.809Z"
+    },
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/skills.git",
+      "skillPath": "skills/find-skills/SKILL.md",
+      "skillFolderHash": "76a98a285cb0434f3d39e1a873823556330e398b",
+      "installedAt": "2026-07-11T18:01:21.072Z",
+      "updatedAt": "2026-07-11T18:01:21.072Z"
+    },
+    "vercel-react-native-skills": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/agent-skills.git",
+      "skillPath": "skills/react-native-skills/SKILL.md",
+      "skillFolderHash": "8b4c6a51914e2111ab6f4f00cb81778652aa241d",
+      "installedAt": "2026-07-21T20:48:12.629Z",
+      "updatedAt": "2026-07-21T20:48:12.629Z"
+    },
+    "vercel-optimize": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/agent-skills.git",
+      "skillPath": "skills/vercel-optimize/SKILL.md",
+      "skillFolderHash": "0901aa3667db7a6e5cc40b213327290bf6556373",
+      "installedAt": "2026-07-21T20:48:12.631Z",
+      "updatedAt": "2026-07-21T20:48:12.631Z"
+    },
+    "vercel-react-view-transitions": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/agent-skills.git",
+      "skillPath": "skills/react-view-transitions/SKILL.md",
+      "skillFolderHash": "394c075e3b28315afc5fe1a6b4492ec20cb2a89f",
+      "installedAt": "2026-07-21T20:48:12.633Z",
+      "updatedAt": "2026-07-21T20:48:12.633Z"
+    },
+    "web-design-guidelines": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/agent-skills.git",
+      "skillPath": "skills/web-design-guidelines/SKILL.md",
+      "skillFolderHash": "3116f3e62dbd02b44a598b1aa690d2a8938e8f89",
+      "installedAt": "2026-07-21T20:48:12.634Z",
+      "updatedAt": "2026-07-21T20:48:12.634Z"
+    },
+    "writing-guidelines": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/agent-skills.git",
+      "skillPath": "skills/writing-guidelines/SKILL.md",
+      "skillFolderHash": "17d954cadfb8dec50bf0c707c9e7634be9ae9fe8",
+      "installedAt": "2026-07-21T20:48:12.636Z",
+      "updatedAt": "2026-07-21T20:48:12.636Z"
+    },
+    "hyperframes": {
+      "source": "heygen-com/hyperframes",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/heygen-com/hyperframes.git",
+      "skillPath": "skills/hyperframes/SKILL.md",
+      "skillFolderHash": "90762e520012cd4e0bc3ea6430c46e30299c8e8e",
+      "pluginName": "core-skills",
+      "installedAt": "2026-08-09T09:33:37.709Z",
+      "updatedAt": "2026-09-09T17:53:38.789Z"
+    },
+    "hyperframes-animation": {
+      "source": "heygen-com/hyperframes",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/heygen-com/hyperframes.git",
+      "skillPath": "skills/hyperframes-animation/SKILL.md",
+      "skillFolderHash": "489bd1ceb93eb7f9a978ce59ea50f0375561d9cd",
+      "pluginName": "core-skills",
+      "installedAt": "2026-08-09T09:33:37.712Z",
+      "updatedAt": "2026-09-09T17:53:38.793Z"
+    },
+    "hyperframes-cli": {
+      "source": "heygen-com/hyperframes",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/heygen-com/hyperframes.git",
+      "skillPath": "skills/hyperframes-cli/SKILL.md",
+      "skillFolderHash": "9eb4e8d625ac1e724976d448e32a4ea17f382bd7",
+      "pluginName": "core-skills",
+      "installedAt": "2026-08-09T09:33:37.714Z",
+      "updatedAt": "2026-09-09T17:53:38.797Z"
+    },
+    "hyperframes-core": {
+      "source": "heygen-com/hyperframes",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/heygen-com/hyperframes.git",
+      "skillPath": "skills/hyperframes-core/SKILL.md",
+      "skillFolderHash": "25e4dc01e0d4a71ecb088b947e23cb6d1f800592",
+      "pluginName": "core-skills",
+      "installedAt": "2026-08-09T09:33:37.715Z",
+      "updatedAt": "2026-09-09T17:53:38.798Z"
+    },
+    "hyperframes-creative": {
+      "source": "heygen-com/hyperframes",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/heygen-com/hyperframes.git",
+      "skillPath": "skills/hyperframes-creative/SKILL.md",
+      "skillFolderHash": "5a4f0694b187381e2bd87635c4187e59871d06cb",
+      "pluginName": "core-skills",
+      "installedAt": "2026-08-09T09:33:37.717Z",
+      "updatedAt": "2026-09-09T17:53:38.800Z"
+    },
+    "hyperframes-keyframes": {
+      "source": "heygen-com/hyperframes",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/heygen-com/hyperframes.git",
+      "skillPath": "skills/hyperframes-keyframes/SKILL.md",
+      "skillFolderHash": "7388a32ad3c69ce46e2ffca4beb462139e1e885c",
+      "pluginName": "core-skills",
+      "installedAt": "2026-08-09T09:33:37.718Z",
+      "updatedAt": "2026-09-09T17:53:38.801Z"
+    },
+    "hyperframes-registry": {
+      "source": "heygen-com/hyperframes",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/heygen-com/hyperframes.git",
+      "skillPath": "skills/hyperframes-registry/SKILL.md",
+      "skillFolderHash": "d151312fba1617f6706290b539f4068a76b35e10",
+      "pluginName": "core-skills",
+      "installedAt": "2026-08-09T09:33:37.720Z",
+      "updatedAt": "2026-09-09T17:53:38.803Z"
+    },
+    "media-use": {
+      "source": "heygen-com/hyperframes",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/heygen-com/hyperframes.git",
+      "skillPath": "skills/media-use/SKILL.md",
+      "skillFolderHash": "0fb9a2151e5a90cca5cc1801649970ffda5c6c6a",
+      "pluginName": "core-skills",
+      "installedAt": "2026-08-09T09:33:37.721Z",
+      "updatedAt": "2026-09-09T17:53:38.804Z"
+    },
+    "animate": {
+      "source": "emilkowalski/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/emilkowalski/skills.git",
+      "skillPath": "skills/animate/SKILL.md",
+      "skillFolderHash": "adf23358fac7bdce5febcb85d7fd985407ead56f",
+      "installedAt": "2026-09-03T15:26:03.792Z",
+      "updatedAt": "2026-09-03T15:26:03.792Z"
+    },
+    "animate-expo": {
+      "source": "emilkowalski/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/emilkowalski/skills.git",
+      "skillPath": "skills/animate-expo/SKILL.md",
+      "skillFolderHash": "2daf5ab8f4d3db7690e46d3d6d63e7ebae89a090",
+      "installedAt": "2026-09-03T15:26:03.795Z",
+      "updatedAt": "2026-09-03T15:26:03.795Z"
+    },
+    "ask-sonner": {
+      "source": "emilkowalski/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/emilkowalski/skills.git",
+      "skillPath": "skills/ask-sonner/SKILL.md",
+      "skillFolderHash": "591cfb58ec1eb38a7ca04f3b6453a75a4fcf9fc8",
+      "installedAt": "2026-09-03T15:26:03.799Z",
+      "updatedAt": "2026-09-03T15:26:03.799Z"
+    },
+    "find-animation-opportunities": {
+      "source": "emilkowalski/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/emilkowalski/skills.git",
+      "skillPath": "skills/find-animation-opportunities/SKILL.md",
+      "skillFolderHash": "502f891c05c9cade7e7bd815e3f228fdd20b61b6",
+      "installedAt": "2026-09-03T15:26:03.803Z",
+      "updatedAt": "2026-09-03T15:26:03.803Z"
+    },
+    "pick-ui-library": {
+      "source": "emilkowalski/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/emilkowalski/skills.git",
+      "skillPath": "skills/pick-ui-library/SKILL.md",
+      "skillFolderHash": "cfc9a519a1b554eef39bba7bd74bd6845524ccd1",
+      "installedAt": "2026-09-03T15:26:03.805Z",
+      "updatedAt": "2026-09-03T15:26:03.805Z"
+    },
+    "prototype": {
+      "source": "emilkowalski/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/emilkowalski/skills.git",
+      "skillPath": "skills/prototype/SKILL.md",
+      "skillFolderHash": "564cf82ef5b17f5e018b439dc7fd1e392dcf6188",
+      "installedAt": "2026-09-03T15:26:03.807Z",
+      "updatedAt": "2026-09-03T15:26:03.807Z"
+    },
+    "write-swift": {
+      "source": "emilkowalski/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/emilkowalski/skills.git",
+      "skillPath": "skills/write-swift/SKILL.md",
+      "skillFolderHash": "3ffa3bc78b8aaa9a05d85f90d518400ef7d5a05f",
+      "installedAt": "2026-09-03T15:26:03.810Z",
+      "updatedAt": "2026-09-03T15:26:03.810Z"
+    },
+    "hyperframes-audio": {
+      "source": "heygen-com/hyperframes",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/heygen-com/hyperframes.git",
+      "skillPath": "skills/hyperframes-audio/SKILL.md",
+      "skillFolderHash": "b1aad4f47a267235bb6d2b7c85dcba1626f728b7",
+      "pluginName": "core-skills",
+      "installedAt": "2026-09-09T17:53:38.795Z",
+      "updatedAt": "2026-09-09T17:53:38.795Z"
+    },
+    "product-launch-video": {
+      "source": "heygen-com/hyperframes",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/heygen-com/hyperframes.git",
+      "skillPath": "skills/product-launch-video/SKILL.md",
+      "skillFolderHash": "2d7e3e2cf212422d50db8d9a046f0c2de16c87d7",
+      "installedAt": "2026-09-09T17:53:38.806Z",
+      "updatedAt": "2026-09-09T17:53:38.806Z"
+    },
+    "antislop": {
+      "source": "miqdadbadjuber/anti-slop",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/miqdadbadjuber/anti-slop.git",
+      "skillPath": "skills/antislop/SKILL.md",
+      "skillFolderHash": "e756d307c0e25af9edd6fa48752d35c2ff24dda2",
+      "installedAt": "2026-10-15T08:45:47.636Z",
+      "updatedAt": "2026-10-15T08:45:47.636Z"
+    },
+    "antislop-ui": {
+      "source": "miqdadbadjuber/anti-slop",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/miqdadbadjuber/anti-slop.git",
+      "skillPath": "skills/antislop-ui/SKILL.md",
+      "skillFolderHash": "d2fb2eebe99d74f4cab2d216b78dd5dee735b9a0",
+      "installedAt": "2026-10-15T08:45:52.726Z",
+      "updatedAt": "2026-10-15T08:45:52.726Z"
+    },
+    "antislop-copywriting": {
+      "source": "miqdadbadjuber/anti-slop",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/miqdadbadjuber/anti-slop.git",
+      "skillPath": "skills/antislop-copywriting/SKILL.md",
+      "skillFolderHash": "3668009c8a37fbe86daa123d1f997f2532e82443",
+      "installedAt": "2026-10-15T08:45:57.404Z",
+      "updatedAt": "2026-10-15T08:45:57.404Z"
+    },
+    "antislop-human": {
+      "source": "miqdadbadjuber/anti-slop",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/miqdadbadjuber/anti-slop.git",
+      "skillPath": "skills/antislop-human/SKILL.md",
+      "skillFolderHash": "4163260e561d714ac4f0cbe7a3661dd481223f0e",
+      "installedAt": "2026-10-15T08:46:01.756Z",
+      "updatedAt": "2026-10-15T08:46:01.756Z"
+    },
+    "antislop-layoutmobile": {
+      "source": "miqdadbadjuber/anti-slop",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/miqdadbadjuber/anti-slop.git",
+      "skillPath": "skills/antislop-layoutmobile/SKILL.md",
+      "skillFolderHash": "99afc77657f0d0ad51131e6b685e27913b1342fd",
+      "installedAt": "2026-10-15T08:46:06.068Z",
+      "updatedAt": "2026-10-15T08:46:06.068Z"
+    },
+    "antislop-code": {
+      "source": "miqdadbadjuber/anti-slop",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/miqdadbadjuber/anti-slop.git",
+      "skillPath": "skills/antislop-code/SKILL.md",
+      "skillFolderHash": "cb31602ea8956c739abda138d41e99d66791b008",
+      "installedAt": "2026-10-15T08:46:10.447Z",
+      "updatedAt": "2026-10-15T08:46:10.447Z"
+    }
+  },
+  "dismissed": {
+    "findSkillsPrompt": true
+  },
+  "lastSelectedAgents": [
+    "amp",
+    "antigravity",
+    "antigravity-cli",
+    "cline",
+    "codex",
+    "cursor",
+    "deepagents",
+    "gemini-cli",
+    "github-copilot",
+    "kimi-code-cli",
+    "opencode",
+    "warp",
+    "zed",
+    "claude-code"
+  ]
+}

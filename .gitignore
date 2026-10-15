@@ -1,0 +1,28 @@
+# Secretos y credenciales — nunca subir
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+*.keystore
+credentials.json
+auth.json
+oauth_creds.json
+.netrc
+.npmrc
+.git-credentials
+
+# Sistema operativo / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+
+# Dependencias y cachés
+node_modules/
+__pycache__/
+*.pyc
+*.log
+.cache/

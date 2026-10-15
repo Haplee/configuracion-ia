@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "artemis": {
+      "command": "C:\\Users\\usuario\\artemis\\.venv\\Scripts\\python.exe",
+      "args": [
+        "-m",
+        "mcp_server"
+      ],
+      "env": {
+        "PYTHONUNBUFFERED": "1",
+        "PYTHONPATH": "C:\\Users\\usuario\\artemis",
+        "ARTEMIS_DESKTOP_NOTIFY": "true"
+      },
+      "disabled": false,
+      "autoApprove": [],
+      "timeout": 120
+    }
+  }
+}
